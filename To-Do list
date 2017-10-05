@@ -1,9 +1,10 @@
 Add folders for .txt files
 Change directory path for reading .txt files
-Auto change token
+Auto change token -----------------------------------------------------
 Add loop to run on multiple subreddits
 Add bar charts to compare subreddits
 Auto scrape results of the weeks football
 Add "match thread" to list/check if match thread is picked up
 Check further down comment trees
 Change "gunner" refences to "subreddit"
+Auto change user-agent
